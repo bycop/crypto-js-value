@@ -1,6 +1,6 @@
 {
   "name": "crypto-js-value",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple crypto currency module to request crypto value with crypto Symbol",
   "main": "index.js",
   "scripts": {
