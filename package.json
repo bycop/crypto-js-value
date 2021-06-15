@@ -1,6 +1,6 @@
 {
   "name": "crypto-js-value",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple crypto currency module to request crypto value with crypto Symbol",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,13 @@
   "dependencies": {
     "request": "^2.88.2"
   },
-  "keywords": ["Discord", "Discord.js", "Crypto", "Currency", "Binance"],
+  "keywords": [
+    "Discord",
+    "Discord.js",
+    "Crypto",
+    "Currency",
+    "Binance"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bycop/crypto-js-value.git"
