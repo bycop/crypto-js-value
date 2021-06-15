@@ -11,6 +11,7 @@
   "dependencies": {
     "request": "^2.88.2"
   },
+  "keywords": ["Discord", "Discord.js", "Crypto", "Currency", "Binance"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bycop/crypto-js-value.git"
