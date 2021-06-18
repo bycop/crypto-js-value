@@ -1,5 +1,5 @@
 # crypto-js-value
-
+<a href="https://www.npmjs.com/package/crypto-js-value"><img src="https://img.shields.io/npm/dt/crypto-js-value.svg?maxAge=3600" alt="NPM downloads" /></a>
 ## About
 
 Simple crypto currency module to request crypto value with crypto Symbol
