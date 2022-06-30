@@ -9,7 +9,7 @@
   "author": "Bycop#4757",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.88.2"
+    "axios": "^0.27.2"
   },
   "keywords": [
     "Discord",
@@ -25,6 +25,5 @@
   "bugs": {
     "url": "https://github.com/bycop/crypto-js-value/issues"
   },
-  "homepage": "https://github.com/bycop/crypto-js-value#readme",
-  "devDependencies": {}
+  "homepage": "https://github.com/bycop/crypto-js-value#readme"
 }

@@ -21,5 +21,15 @@ Currency = USD/USDT/EUR...
 
 ### Example
 ```js
-const result = await crypto.price("eth", "usdt");
+const crypto = require('crypto-js-value');
+
+async function example() {
+	const result = await crypto.price("eth", "usdt");
+	console.log(result);
+}
+
+example();
 ```
+
+## Support
+If you have any idea or feature suggestion do not hesitate to open issue on the github page or contact me on Discord: <b>Bycop#4757</b>
